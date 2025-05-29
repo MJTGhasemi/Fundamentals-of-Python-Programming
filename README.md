@@ -11,8 +11,6 @@ Senior Data Scientist | [GitHub](https://github.com/MJTGhasemi) | [LinkedIn](htt
 
 ## 📁 Course Sessions
 
-## 📁 Course Sessions
-
 | Session | Topic                            | Slides                                                                 | Notebooks & Extras                                                                                      |
 |---------|----------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | 01      | Introduction to Python           | [Slides](Sessions/Session_01/01_Fundamentals_of_Python.pptx)           | -                                                                                                         |
@@ -28,7 +26,7 @@ Senior Data Scientist | [GitHub](https://github.com/MJTGhasemi) | [LinkedIn](htt
 | 11      | Functions (Part 3)               | -                                                                      | [Functions Part 3](Sessions/Session_11/Functions_Part_03.ipynb)                                           |
 | 12      | File Handling                    | -                                                                      | [File Handling](Sessions/Session_12/File_Handling.ipynb), Files Used in Exercises     |
 | 13      | Modular Programming & OOP        | -                                                                      | [Modular Programming](Sessions/Session_13/Modular_Programming.ipynb), [OOP](Sessions/Session_13/Object_Oriented_Programming.ipynb), [LMS System](Sessions/Session_13/Library_Management_System/) |
-| 14      | Interview Prep & ML Example  | -                                                                      | [Iris Classification](Sessions/Session_14/Iris_Classification.ipynb), [Interview Qs](Sessions/Session_14/Python_Interview_Questions_Complex.ipynb) |
+| 14      | Interview Prep & ML Example      | -                                                                      | [Iris Classification](Sessions/Session_14/Iris_Classification.ipynb), [Interview Qs](Sessions/Session_14/Python_Interview_Questions_Complex.ipynb) |
 | 15      | Numpy and Pandas                 | -                                                                      | [Numpy & Pandas](Sessions/Session_15/Numpy_and_Pandas.ipynb), [Heart Dataset](Sessions/Session_15/heart_data.csv) |
 
 ---
